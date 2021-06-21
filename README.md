@@ -1,11 +1,11 @@
-#Guess My Number
+
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   
 
-  <h3 align="center">Guess My Number</h3>
+  <h1 align="center">Guess My Number</h1>
 
 
 </p>
