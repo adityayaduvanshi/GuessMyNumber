@@ -21,7 +21,7 @@
     </li>
     <li><a href="#build-with">Built with</a></li>
     <li>Screenshot</li>
-    <li>Contact me</li>
+    <li><a href="contact-me"> Contact me</a></li>
     
     
     
