@@ -36,7 +36,7 @@
 ![alt text](guess-screenshot.PNG)
 Guess My Number is a quick, fun, and easy opening game to lead with a small group or the entire class. Students try to guess the number you’re thinking of in the fewest number of guesses possible
 
-### Built With
+## Built With
 
 * [JAVASCRIPT](https://www.javascript.com/)
 * [CSS](https://www.css.com/)
@@ -51,7 +51,7 @@ Guess My Number is a quick, fun, and easy opening game to lead with a small grou
   <li>Twitter -- <a href="https://twitter.com/fixslyr">Fixslyr</a>
     <li>Instagram -- <a href="https://www.instagram.com/fixslayrxx/">Aditya Yaduvanshi</a>
       <li>Linkedin -- <a href="https://www.linkedin.com/in/theaditya-yaduvanshi-/">Aditya Yaduvanshi</a>
-      
+  </ul>    
     
 
 
