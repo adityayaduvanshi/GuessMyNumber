@@ -19,9 +19,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#build-with">Built with</a></li>
+    <li><a href="#built-with">Built with</a></li>
     <li>Screenshot</li>
-    <li><a href="contact-me"> Contact me</a></li>
+    <li><a href="#contact-me"> Contact me</a></li>
     
     
     
@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](guess-screenshot.PNG)
+![screenshot](guess-screenshot.PNG)
 Guess My Number is a quick, fun, and easy opening game to lead with a small group or the entire class. Students try to guess the number you’re thinking of in the fewest number of guesses possible
 
 ## Built With
